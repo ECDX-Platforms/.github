@@ -1,0 +1,33 @@
+name: Bug or incorrect guidance
+description: Report a reproducible problem or inaccurate technical guidance
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: Affected repository or document
+      placeholder: platform-subjects / azure / path/to/file.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is incorrect or not working?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction or evidence
+      description: Include steps, versions, links, and relevant output. Remove secrets and confidential data.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true

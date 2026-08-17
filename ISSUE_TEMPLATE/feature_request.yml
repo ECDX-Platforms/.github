@@ -1,0 +1,27 @@
+name: New pattern or capability
+description: Propose a reusable example, template, pattern, or automation
+title: "[Proposal]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      description: What recurring need would this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+      description: Describe the expected content, implementation, or outcome.
+    validations:
+      required: true
+  - type: textarea
+    id: ownership
+    attributes:
+      label: Ownership and maintenance
+      description: Who can maintain this, and what ongoing support would it require?
+    validations:
+      required: true
