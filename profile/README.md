@@ -23,20 +23,29 @@ Topics covered include:
 
 ## 📚 Documentation
 
+The main documentation repository is [platform-subjects](https://github.com/ECDX-Platforms/platform-subjects). It contains platform guidance, architecture, standards, patterns, templates, examples, and troubleshooting notes in one place.
+
+Organization-wide contribution and support guidance:
+
+- [Contributing](../blob/main/CONTRIBUTING.md)
+- [Security policy](../blob/main/SECURITY.md)
+- [Governance](../blob/main/GOVERNANCE.md)
+- [Support](../blob/main/SUPPORT.md)
+
 ### Power Platform
-Best practices, solution architecture, coding standards, environment strategy, DevOps, governance, and reusable assets.
+Best practices, solution architecture, coding standards, environment strategy, DevOps, governance, and reusable assets. See [Power Platform guidance](https://github.com/ECDX-Platforms/platform-subjects/tree/main/power-platform).
 
 ### Azure AI Foundry
-AI application architecture, model selection guidance, prompt engineering, AI orchestration patterns, and deployment instructions.
+AI application architecture, model selection guidance, prompt engineering, AI orchestration patterns, and deployment instructions. See [Azure AI Foundry guidance](https://github.com/ECDX-Platforms/platform-subjects/tree/main/azure-ai-foundry).
 
 ### Copilot Studio
-Agent design guidelines, integrations, generative answers, knowledge management, MCP connectivity, and deployment recommendations.
+Agent design guidelines, integrations, generative answers, knowledge management, MCP connectivity, and deployment recommendations. See [Copilot Studio guidance](https://github.com/ECDX-Platforms/platform-subjects/tree/main/copilot-studio).
 
 ### Integrations
-Integration patterns, APIs, Azure Integration Services, Logic Apps, Service Bus, Dataverse integrations, authentication methods, and reference implementations.
+Integration patterns, APIs, Azure Integration Services, Logic Apps, Service Bus, Dataverse integrations, authentication methods, and reference implementations. See [integration guidance](https://github.com/ECDX-Platforms/platform-subjects/tree/main/integrations).
 
 ### AI Plugins, Tools & Tips
-Custom connectors, MCP servers, AI plugins, reusable prompts, practical examples, troubleshooting tips, and lessons learned.
+Custom connectors, MCP servers, AI plugins, reusable prompts, practical examples, troubleshooting tips, and lessons learned. See [Azure AI Foundry](https://github.com/ECDX-Platforms/platform-subjects/tree/main/azure-ai-foundry) and [integration guidance](https://github.com/ECDX-Platforms/platform-subjects/tree/main/integrations).
 
 ## 🤝 Contribution Guidelines
 
